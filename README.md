@@ -36,10 +36,5 @@
 
 ### 📊 GitHub Stats  
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAA-Hamza&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-### 🔥 Random GIF  
-<img src="https://i.imgur.com/oQG9Z2N.gif" width="500"/>
