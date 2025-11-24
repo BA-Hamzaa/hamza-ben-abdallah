@@ -14,7 +14,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://www.facebook.com/hamza.benaballah/">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
   </a>
 </p>
 
