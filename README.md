@@ -4,16 +4,16 @@
 ---
 
 ### 📫 How to reach me  
-**benabdallah.hamza@gmail.com**
+**hamza.benabdallah@esprit.tn**
 
 ---
 
 ### 🔗 Connect with me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/hamza-ben-abdallah-58024b363/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://facebook.com/yourprofile" target="_blank">
+  <a href="https://www.facebook.com/hamza.benaballah/">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
