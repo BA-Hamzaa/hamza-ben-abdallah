@@ -36,5 +36,5 @@
 
 ### 📊 GitHub Stats  
 <p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BA-Hamza&layout=compact&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BA-Hamzaa&layout=compact&theme=tokyonight"/>
 </p>
